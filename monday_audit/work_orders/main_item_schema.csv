@@ -1,0 +1,123 @@
+column_name
+Name
+Subitems
+Choose Property
+Choose Units
+Description
+WO Number
+Priority
+Days to Close (tech closed)
+Tenant Phone
+Tenant
+Category
+WO Status
+Pets in Unit
+Pets:
+Tenant Notifications
+ETA
+En Route Text
+Done at unit Text
+Tenant Pictures
+Tech
+Tenant's Notes
+Tech Start
+Technician
+Communication
+Quality
+Comments
+Survey link
+Survey pictures
+monday Doc v2
+Turnover List
+Leases 📑
+phone1
+phone2
+Maint Held?
+Maint Held $ Amount
+Tenant Phone.1
+Need Keys?
+Tenant Email
+Notify Owner? (+$250)
+Date Tech Closed
+Tech End
+Owner Email   ↘️
+Tenant Date 1
+Tenant Date 2
+Tenant Preference
+Scheduling Form
+Owner
+Total Materials
+Scheduling Link
+Date Created
+Total time
+Estimated Man Hours
+Hours percentage
+Progress Color
+Date Completed
+Days to complete (billed)
+Days open
+Total Labor | Owner
+Labor Description
+Date Invoiced
+Sent en route text
+Sent done at unit text
+Seasonal due date
+Total Material | Owner
+Material Description
+Total Contractor | Owner
+Contractor Description
+Total Cleaning | Owner
+Cleaning Description
+Total Labor | Tenant
+Total Material | Tenant
+Total Contractor | Tenant
+Total Cleaning | Tenant
+Vendor
+Owner Full Names
+Sync Owner / Lease Info
+Property Rentvine ID
+Unit Rentvine ID
+All Owners For This Property
+Reference (Not Required)
+Payment Memo (Not Required)
+Create Item In Bills Board
+Status | Create Item In Bills Board
+AI Summary
+AI Summary Status
+AI Summarize | Bill Details Description (Not Required)
+Total Cleaning | Tenant.1
+Total Contractor | Tenant.1
+Labor Total | Tenant
+Material Total | Tenant
+Total Cleaning | Owner1
+Total Contractor | Owner.1
+Labor Total | Owner
+Material Total | Owner
+Mark Up % (Not Required)
+Bill Details Description (Not Required)
+Associated Work Order (Not Required)
+Bill Date (Required)
+Charge Account (Required)
+Create Bill In Rentvine
+Status | Create Bill In Rentvine
+Date Sent | Create Bill In Rentvine
+Timestamp | Create Bill In Rentvine
+All Tenant Names
+Select Tenant
+TCG AI Summary
+Turnover Labor Staging
+Testing status
+Inspection Bill Status
+Item ID
+Location
+Associated work orders
+Turnover Closed Out
+TO Closeout
+closeout ID
+Unbilled?
+Status Start Date
+Stuck?
+Owner (mirror)
+link to Turnover List
+Mirror
+TO Time tracking
