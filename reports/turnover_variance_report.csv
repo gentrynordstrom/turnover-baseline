@@ -1,0 +1,17 @@
+Name,Property Type ↘️,Units 🏡,Turnover Type,Turnover Status,Goal Date,turnover_start_date,turnover_completion_date,days_to_complete,labor_hours_final,materials_cost_total,count,labor_hours_avg,labor_hours_med,materials_avg,materials_med,days_avg,days_med,labor_hours_variance,labor_hours_variance_pct,materials_variance,materials_variance_pct,days_variance,days_variance_pct
+445 Elm PL Apt R12,Apartment,,,Ready To Market,2025-10-30 00:00:00,2025-10-01,2025-11-03,33,12.95,184.0,,,,,,,,,,,,,
+1444/4 State Street,Furnished - Medium Term,,,Ready To Market,,2025-10-02,2025-11-03,32,2.46,0.0,,,,,,,,,,,,,
+602/1B,Apartment,602 E Mckinley Road Apt 1B Ottawa IL 61350,,Ready To Market,,2025-10-01,2025-12-09,69,63.28000000000001,824.0,,,,,,,,,,,,,
+606/2B,Apartment,,,Ready To Market,,2025-10-02,2026-01-07,97,32.61,984.08,,,,,,,,,,,,,
+141  B East Walnut Street,Apartment,141 East Walnut Street Apt B Oglesby IL 61348,,Ready To Market,,2025-11-06,2026-01-12,67,31.270000000000003,104.7,,,,,,,,,,,,,
+1339 Kansas B Ottawa,Duplex,,,Ready To Market,,2025-09-18,2025-11-25,68,83.77999999999999,1536.0,,,,,,,,,,,,,
+424 Heritage East Ottawa,Duplex,,,Ready To Market,2025-11-21 00:00:00,2025-10-30,2026-01-09,71,52.57999999999999,835.0,,,,,,,,,,,,,
+2018 First Street Peru IL 61354,Duplex,2018 First Street Peru IL 61354,Standard,Ready To Market,2025-12-15 00:00:00,2025-11-28,2026-01-15,48,31.5,138.0,1.0,31.5,31.5,138.0,138.0,48.0,48.0,0.0,0.0,0.0,0.0,0.0,0.0
+"600 E McKinley Rd. Apt 3A Ottawa, IL 61350 (copy)",Apartment,600 E Mckinley Road Apt 3A Ottawa IL 61350,,Ready To Market,,2025-10-30,2026-01-12,74,10.29,93.0,,,,,,,,,,,,,
+"1444 State, #8, Ottawa",Furnished - Medium Term,,,Ready To Market,,2025-11-05,2026-01-09,65,4.59,0.0,,,,,,,,,,,,,
+2406 Marquette Road Apt 5 Peru IL 61354,Apartment,2406 Marquette Road Apt 5 Peru IL 61354,Light,Ready To Market,2025-12-15 00:00:00,2025-12-05,2026-01-14,40,6.369999999999999,82.0,2.0,6.359999999999999,6.359999999999999,72.38,72.38,32.0,32.0,0.009999999999999787,0.001572327044025124,9.620000000000005,0.1329096435479415,8.0,0.25
+445 Elm Place R-13 Princeton IL 61356,Apartment,445 Elm Place R-13 Princeton IL 61356,Heavy,Ready To Market,2025-12-08 00:00:00,2025-11-11,2026-01-14,64,87.61000000000001,397.0,1.0,87.61000000000001,87.61000000000001,397.0,397.0,64.0,64.0,0.0,0.0,0.0,0.0,0.0,0.0
+2406 Marquette Road Apt 12 Peru IL 61354,,2406 Marquette Road Apt 12 Peru IL 61354,Light,Ready To Market,2025-11-10 00:00:00,2025-10-31,2026-01-19,80,13.13,176.71,,,,,,,,,,,,,
+1101 Carrie Lane Apt. 7 Marseilles IL 61341,Apartment,1101 Carrie Lane Apt. 7 Marseilles IL 61341,Light,Ready To Market,2026-01-29 00:00:00,2026-01-12,2026-02-05,24,6.35,62.76,2.0,6.359999999999999,6.359999999999999,72.38,72.38,32.0,32.0,-0.009999999999999787,-0.001572327044025124,-9.619999999999997,-0.13290964354794138,-8.0,-0.25
+"1413 Adams St Ottawa, IL 61350",Townhouse,1413 Adams Street Ottawa IL 61350,Standard,Ready To Market,2025-12-26 00:00:00,2025-12-08,2026-02-11,65,74.23,1101.0,1.0,74.23,74.23,1101.0,1101.0,65.0,65.0,0.0,0.0,0.0,0.0,0.0,0.0
+1400 Kansas Street Apt A Ottawa IL 61350,,1400 Kansas Street Apt A Ottawa IL 61350,Standard,Ready To Market,2025-12-20 00:00:00,2025-12-02,2026-01-27,56,23.33,275.0,,,,,,,,,,,,,
