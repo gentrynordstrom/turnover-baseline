@@ -1,0 +1,123 @@
+column,nonempty_count,total_rows,pct_empty,status
+Subitems,15,2326,0.9936,DEAD_CANDIDATE
+monday Doc v2,15,2326,0.9936,DEAD_CANDIDATE
+Sent done at unit text,15,2326,0.9936,DEAD_CANDIDATE
+Mark Up % (Not Required),15,2326,0.9936,DEAD_CANDIDATE
+Bill Details Description (Not Required),15,2326,0.9936,DEAD_CANDIDATE
+Sent en route text,16,2326,0.9931,DEAD_CANDIDATE
+Payment Memo (Not Required),16,2326,0.9931,DEAD_CANDIDATE
+Associated Work Order (Not Required),16,2326,0.9931,DEAD_CANDIDATE
+Bill Date (Required),16,2326,0.9931,DEAD_CANDIDATE
+TO Time tracking,17,2326,0.9927,DEAD_CANDIDATE
+Location,19,2326,0.9918,DEAD_CANDIDATE
+Seasonal due date,20,2326,0.9914,DEAD_CANDIDATE
+Survey pictures,23,2326,0.9901,DEAD_CANDIDATE
+Vendor,23,2326,0.9901,DEAD_CANDIDATE
+Maint Held $ Amount,29,2326,0.9875,DEAD_CANDIDATE
+Cleaning Description,33,2326,0.9858,DEAD_CANDIDATE
+closeout ID,41,2326,0.9824,DEAD_CANDIDATE
+ETA,45,2326,0.9807,DEAD_CANDIDATE
+Turnover Closed Out,46,2326,0.9802,DEAD_CANDIDATE
+Unbilled?,68,2326,0.9708,DEAD_CANDIDATE
+Need Keys?,88,2326,0.9622,DEAD_CANDIDATE
+Tech,89,2326,0.9617,DEAD_CANDIDATE
+Inspection Bill Status,119,2326,0.9488,DEAD_CANDIDATE
+Mirror,126,2326,0.9458,DEAD_CANDIDATE
+Estimated Man Hours,131,2326,0.9437,DEAD_CANDIDATE
+Hours percentage,131,2326,0.9437,DEAD_CANDIDATE
+Comments,140,2326,0.9398,DEAD_CANDIDATE
+Quality,174,2326,0.9252,DEAD_CANDIDATE
+Tenant's Notes,176,2326,0.9243,DEAD_CANDIDATE
+Turnover Labor Staging,184,2326,0.9209,DEAD_CANDIDATE
+Contractor Description,188,2326,0.9192,DEAD_CANDIDATE
+Communication,196,2326,0.9157,DEAD_CANDIDATE
+Technician,234,2326,0.8994,USED
+phone2,260,2326,0.8882,USED
+Associated work orders,276,2326,0.8813,USED
+link to Turnover List,283,2326,0.8783,USED
+Owner Email   ↘️,295,2326,0.8732,USED
+Turnover List,314,2326,0.865,USED
+Pets:,341,2326,0.8534,USED
+Owner,360,2326,0.8452,USED
+Tenant Pictures,390,2326,0.8323,USED
+Status Start Date,390,2326,0.8323,USED
+Owner Full Names,392,2326,0.8315,USED
+Tenant Notifications,419,2326,0.8199,USED
+Choose Property,460,2326,0.8022,USED
+Property Rentvine ID,460,2326,0.8022,USED
+All Owners For This Property,460,2326,0.8022,USED
+Material Description,463,2326,0.8009,USED
+Tenant Preference,493,2326,0.788,USED
+Pets in Unit,631,2326,0.7287,USED
+Tenant Phone,632,2326,0.7283,USED
+phone1,642,2326,0.724,USED
+Leases 📑,644,2326,0.7231,USED
+All Tenant Names,644,2326,0.7231,USED
+TCG AI Summary,657,2326,0.7175,USED
+Tenant Date 2,693,2326,0.7021,USED
+Tenant Date 1,696,2326,0.7008,USED
+Labor Description,741,2326,0.6814,USED
+AI Summary Status,749,2326,0.678,USED
+Total Cleaning | Tenant,759,2326,0.6737,USED
+Total Contractor | Tenant,760,2326,0.6733,USED
+Total Material | Tenant,764,2326,0.6715,USED
+Total Labor | Tenant,768,2326,0.6698,USED
+Date Sent | Create Bill In Rentvine,866,2326,0.6277,USED
+Reference (Not Required),876,2326,0.6234,USED
+Total Cleaning | Owner,895,2326,0.6152,USED
+Progress Color,924,2326,0.6028,USED
+AI Summarize | Bill Details Description (Not Required),965,2326,0.5851,USED
+Tenant Email,983,2326,0.5774,USED
+Total Contractor | Owner,989,2326,0.5748,USED
+Total Materials,1086,2326,0.5331,USED
+Owner (mirror),1131,2326,0.5138,USED
+Choose Units,1138,2326,0.5107,USED
+Unit Rentvine ID,1138,2326,0.5107,USED
+Tenant Phone.1,1271,2326,0.4536,USED
+Tenant,1288,2326,0.4463,USED
+Date Invoiced,1470,2326,0.368,USED
+Total Labor | Owner,1572,2326,0.3242,USED
+Tech End,1606,2326,0.3095,USED
+Material Total | Owner,1658,2326,0.2872,USED
+Total time,1673,2326,0.2807,USED
+Total Material | Owner,1680,2326,0.2777,USED
+Notify Owner? (+$250),1713,2326,0.2635,USED
+Days to Close (tech closed),1785,2326,0.2326,USED
+Date Tech Closed,1785,2326,0.2326,USED
+Tech Start,1827,2326,0.2145,USED
+Date Completed,2156,2326,0.0731,USED
+Days to complete (billed),2156,2326,0.0731,USED
+Category,2204,2326,0.0525,USED
+Description,2248,2326,0.0335,USED
+Survey link,2263,2326,0.0271,USED
+Scheduling Link,2279,2326,0.0202,USED
+Total Cleaning | Tenant.1,2303,2326,0.0099,USED
+Total Contractor | Tenant.1,2303,2326,0.0099,USED
+Labor Total | Tenant,2303,2326,0.0099,USED
+Material Total | Tenant,2303,2326,0.0099,USED
+Total Cleaning | Owner1,2303,2326,0.0099,USED
+Total Contractor | Owner.1,2303,2326,0.0099,USED
+Labor Total | Owner,2303,2326,0.0099,USED
+WO Number,2311,2326,0.0064,USED
+Priority,2311,2326,0.0064,USED
+WO Status,2311,2326,0.0064,USED
+En Route Text,2311,2326,0.0064,USED
+Done at unit Text,2311,2326,0.0064,USED
+Maint Held?,2311,2326,0.0064,USED
+Scheduling Form,2311,2326,0.0064,USED
+Date Created,2311,2326,0.0064,USED
+Days open,2311,2326,0.0064,USED
+Sync Owner / Lease Info,2311,2326,0.0064,USED
+Create Item In Bills Board,2311,2326,0.0064,USED
+Status | Create Item In Bills Board,2311,2326,0.0064,USED
+AI Summary,2311,2326,0.0064,USED
+Charge Account (Required),2311,2326,0.0064,USED
+Create Bill In Rentvine,2311,2326,0.0064,USED
+Status | Create Bill In Rentvine,2311,2326,0.0064,USED
+Timestamp | Create Bill In Rentvine,2311,2326,0.0064,USED
+Select Tenant,2311,2326,0.0064,USED
+Testing status,2311,2326,0.0064,USED
+Item ID,2311,2326,0.0064,USED
+TO Closeout,2311,2326,0.0064,USED
+Stuck?,2311,2326,0.0064,USED
+Name,2326,2326,0.0,USED
